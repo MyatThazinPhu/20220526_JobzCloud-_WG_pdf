@@ -14,7 +14,7 @@ namespace jobzcolud
 {
     public partial class JC01Login : System.Web.UI.Page
     {
-        MySqlConnection con = null; // Added By エインドリ－・プ－プゥ
+        MySqlConnection con = null;   // Added By エインドリ－・プ－プゥ mmmmm
         public bool clicked_link=false;　// Added By エインドリ－・プ－プゥ
         public static string old_email,new_mail, username; // Added By エインドリ－・プ－プゥ
         //20211209 Added By エインドリ－・プ－プゥ
